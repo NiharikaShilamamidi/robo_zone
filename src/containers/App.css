@@ -1,0 +1,9 @@
+@font-face{
+  font-family:'Amika Blackletter Free Font';
+  font-family: normal;
+  font-weight: normal;
+  src:local('Amika Blackletter Free Font'),url('Amika Blackletter Free Font.ttf') format('ttf');
+}
+h1{
+  font-family: 'Amika Blackletter Free Font';
+}
