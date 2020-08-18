@@ -1,0 +1,63 @@
+export const robots=[
+{
+	id:1,
+	name:'abel',
+	username:'merry',
+	email:'abel.merry@gmail.com'
+
+},
+{
+	id:2,
+	name:'perry',
+	username:'platapus',
+	email:'perry.platapus@gmail.com'
+
+},
+{
+	id:3,
+	name:'phineas',
+	username:'san',
+	email:'phineas.san@gmail.com'
+},
+{
+	id:4,
+	name:'ferb',
+	username:'ripets',
+	email:'ferb.ripets@gmail.com'
+},
+{
+	id:5,
+	name:'oggy',
+	username:'prich',
+	email:'oggy.prich@gmail.com'
+},
+{
+	id:6,
+	name:'jack',
+	username:'pillsor',
+	email:'jack.pillsor@gmail.com'
+},
+{
+	id:7,
+	name:'bob',
+	username:'roseworl',
+	email:'bob.roseworl@gmail.com'
+},
+{
+	id:8,
+	name:'nody',
+	username:'brinset',
+	email:'nody.brinset@gmail.com'
+},
+{
+	id:9,
+	name:'elsa',
+	username:'prox',
+	email:'elsa.prox@gmail.com'
+},
+{
+	id:10,
+	name:'irech',
+	username:'olive',
+	email:'irech.olive@gmail.com'
+}]
